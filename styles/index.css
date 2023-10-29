@@ -1,0 +1,5 @@
+@import "style.css";
+@import "normalize.css";
+@import "../header/header.css";
+@import "../banner/banner.css";
+@import "../promo/promo.css";
